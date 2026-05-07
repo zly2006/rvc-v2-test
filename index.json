@@ -1,0 +1,24 @@
+{
+  "rvc_version": 1,
+  "name": "Unnamed",
+  "sub_regions": [
+    {
+      "name": "Unnamed",
+      "pos1": [
+        0,
+        0,
+        0
+      ],
+      "pos2": [
+        6,
+        4,
+        5
+      ],
+      "size": [
+        7,
+        5,
+        6
+      ]
+    }
+  ]
+}
